@@ -3,7 +3,6 @@ For today's warmup, you will be working with National Basketball Association dat
 
 
 ```python
-from nba_api.stats.endpoints import leaguestandings
 import pickle
 ```
 
